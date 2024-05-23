@@ -1,0 +1,10 @@
+numpy
+pandas
+Pytorch
+random
+os
+transformers
+scikit-learn
+time
+streamlit
+matplotlib
