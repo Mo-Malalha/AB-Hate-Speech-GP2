@@ -24,8 +24,8 @@ We have uploaded all the different Models in a file named [OldModels](https://gi
 
 ## Authors
 
-- Mohammad Al Malalha - Email: Mt.malalha@gmai.com
-- Hamza Bseiso - Email: ham20200154@std.psut.edu.jo)
-- Zaid Abdullah - Email: zai20200284@std.psut.edu.jo)
+- Mohammad Al Malalha - Email: Mt.malalha@gmail.com
+- Hamza Bseiso - Email: ham20200154@std.psut.edu.jo
+- Zaid Abdullah - Email: zai20200284@std.psut.edu.jo
 
 
